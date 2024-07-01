@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "226791606258",
+    "project_id": "my-fit-healthdb",
+    "storage_bucket": "my-fit-healthdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226791606258:android:6ee617ecbadc7d6f88cd6b",
+        "android_client_info": {
+          "package_name": "com.example.fithealth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgPua5qlJqic2Y3o7MwTl24izZIJlewtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
